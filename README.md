@@ -9,5 +9,6 @@ Good to Implements  :
 3. CRUD features for persons list.
 
 Employee List
-Create an Employee
-Submit a Rating
+Create an Employee (Floating Action button)
+Delet an Employee (Swipe left to right gesture based)
+Submit a Rating (Second tab)
