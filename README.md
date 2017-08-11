@@ -11,3 +11,13 @@ Employee List
 Create an Employee (Floating Action button)
 Delet an Employee (Swipe left to right gesture based)
 Submit a Rating (Second tab)
+
+Gradle lib references are:
+
+compile 'com.android.support:appcompat-v7:25.3.0'
+compile 'com.android.support.constraint:constraint-layout:1.0.2'
+compile 'com.android.support:recyclerview-v7:25.3.0'
+compile 'com.android.support:cardview-v7:25.3.0'
+compile 'com.android.support:design:25.3.0'
+compile 'com.google.code.gson:gson:2.4'
+compile 'com.android.volley:volley:1.0.0'
